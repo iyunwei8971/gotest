@@ -6,6 +6,6 @@ func init() {
 	fmt.Println("Hello go init()")
 }
 
-func sayHello(){
+func sayHello() {
 	fmt.Println("Hello gotest mod")
 }
